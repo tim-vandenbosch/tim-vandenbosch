@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 -->
 
 [website_promatask]: https://www.promatask.com
-[website_itvdb]: https://tim-vandenbosch.github.io/itvdb/
+[website_itvdb]: https://itvdb.github.io
 [website_codestackr]: https://github.com/codeSTACKr
