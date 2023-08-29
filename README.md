@@ -9,11 +9,17 @@
 
 <br />
 
-🌱 Things I'm learning:
+🌳 **knowledge**:
+- React
+- Storybook
+- SerpBear
+- Nextjs
+- Stripe
+- .Pay
+- Tailwindcss/Tailwindui/Headlessui
 
--   React
--   Redux
--   Storybook
+🌱 **Things I'm learning**:
+- leadership skills
 
 ---
 
