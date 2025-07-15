@@ -4,7 +4,8 @@
 
 💻 Currently working on:
 
--   [<img src="https://www.promatask.com/assets/logobeeld.svg" width="22px"/> Promatask.com][website_promatask]
+-   [Prosite](https://www.prosite.be)
+-   [E-Torch](https://www.e-torch.eu)
 -   [😎 my own website][website_itvdb]
 
 <br />
@@ -67,6 +68,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website_promatask]: https://www.promatask.com
 [website_itvdb]: https://itvdb.github.io
 [website_codestackr]: https://github.com/codeSTACKr
